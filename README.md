@@ -70,7 +70,8 @@ Printing in **white or light colors** is recommended to **minimize heat absorpti
 **N.B.**
 - It is generally recommended to place the components in a way that minimizes supports to minimize printing time and maintain the structural integrity of the parts.  
 The suggested placement of components  on the print bed is as follows: 
-(Insert screenshot image here)
+![Alt Text]([https://ibb.co/WvyyZPs])
+
 
 
 
